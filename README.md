@@ -2,6 +2,8 @@
 <h3 align="center">Estudante de Informática no IFSP | Apaixonado por Codificação</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif")
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobertaglia&label=Profile%20views&color=ffffff&style=flat" alt="caiobertaglia" /> </p>
+
 - 🔭 Projeto 2ºano: [Estacionamento](https://github.com/Estacionamento-231/Estacionamento)
 
 - 🌱 Atualmente estou aprendendo: **Java, SQL e Python**
