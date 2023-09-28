@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Caio Bertaglia</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">Estudante de Ciência da Computação no IFSP e apreciador de Segurança da Informação </h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/cloudinary-marketing/images/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobertaglia&label=Profile%20views&color=0e75b6&style=flat-square" alt="caiobertaglia" /> </p>
 
-- 🔭 I’m currently working on [Estacionamento](https://github.com/Estacionamento-231/Estacionamento)
+- 🔭 Projeto 2º ano: [Estacionamento](https://github.com/Estacionamento-231/Estacionamento)
 
-- 🌱 I’m currently learning **Java,SQL and Python**
+- 🌱 Atualmente estou aprendendo: **Java, SQL e Python**
 
-- 📫 How to reach me **lemelucas167@gmail.com**
+- 📫 Meu E-mail: **lemelucas167@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
