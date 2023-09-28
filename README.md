@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Caio Bertaglia</h1>
-<h3 align="center">Estudante de Ciência da Computação no IFSP e apreciador de Segurança da Informação</h3>
+<h3 align="center">Estudante de Informática no IFSP | Apaixonado por Codificação</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif")
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobertaglia&label=Profile%20views&color=0e75b6&style=flat-square" alt="caiobertaglia" /> </p>
 
 - 🔭 Projeto 2ºano: [Estacionamento](https://github.com/Estacionamento-231/Estacionamento)
 
