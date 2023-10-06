@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Caio Bertaglia</h1>
 <h3 align="center">Estudante de Informática no IFSP | Apaixonado por Codificação</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7a/61/fe/7a61fe192013a896351c2a315238a36e.gif")
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caiobertaglia&label=Profile%20views&color=ffffff&style=flat" alt="caiobertaglia" /> </p>
 
