@@ -20,15 +20,21 @@
 - Python
 
 ## 🛠 Projeto em destaque
-- [Sistema de Estacionamento (2º ano)](https://github.com/Estacionamento-231/Estacionamento)
+
 
 ## 📫 Contato
 - E-mail: **lemelucas167@gmail.com**
 
 ## 🌐 Redes Sociais
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/caio-bertaglia-9b0b8a263)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/caio.bertaglia_)
+<p>
+  <a href="https://linkedin.com/in/caio-bertaglia-9b0b8a263" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24" height="24"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/caio.bertaglia_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24" height="24"/>
+  </a>
+</p>
 
 ## 📊 Estatísticas GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=caiobertaglia&show_icons=true&theme=dark&hide_border=true&locale=pt-br&layout=compact)
-
