@@ -1,6 +1,6 @@
 # 👨‍💻 Ei, você! 🚀
 
-Olá, eu me chamo **Caio Bertaglia**. Sou estudante de Informática no IFSP.  
+Olá, eu me chamo **Caio Bertaglia**. Sou estudante de Sistemas de Informação na FIAP.  
 Aqui, você encontrará meus estudos e projetos envolvendo **Front, Back, Segurança, Projetos e etc..**, além de outras ideias e sistemas que venho desenvolvendo ao longo da minha jornada na área de tecnologia.
 
 
