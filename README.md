@@ -2,7 +2,7 @@
 
 <p>🚀 Em aprendizado constante nas áreas de desenvolvimento, trabalhando com <strong>HTML, CSS, JavaScript, Java e Python</strong>.</p>
 
-<p>📚 Atualmente focado em estudos de <strong>Front-end, Back-end, Segurança e desenvolvimento de projetos</strong>.</p>
+<p>📚 Atualmente focado em estudos de <strong>Front-end, Back-end, CyberSecurity e desenvolvimento de projetos</strong>.</p>
 
 <p>🛠️ Projeto atual: <a href="https://github.com/GabrielKott/StreamLedger" target="_blank">StreamLedger</a></p>
 
