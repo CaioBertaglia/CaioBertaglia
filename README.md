@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=while(true)+%7B+aprender();+%7D" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=Caio+Bertaglia" />
 </p>
 
 <p>👨‍💻 Estudante de Sistemas de Informação na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>. </p>
