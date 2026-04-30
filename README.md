@@ -4,7 +4,7 @@
 
 <p>👨‍💻 Estudante de Sistemas de Informação na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>. </p>
 
-<p>🚀 Em aprendizado constante nas áreas de desenvolvimento, trabalhando com <strong>HTML, CSS, JavaScript, Java e Python</strong>.</p>
+<p>🚀 Desenvolvedor em formação com foco em aplicações web e interesse em CyberSecurity e boas práticas de segurança.>.</p>
 
 <p>📚 Atualmente focado em estudos de <strong>Front-end, Back-end, CyberSecurity e desenvolvimento de projetos</strong>.</p>
 
@@ -22,4 +22,5 @@
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C" />
 </p>
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiobertaglia&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00FF9C&text_color=00FF9C&icon_color=00FF9C&border_color=00FF9C)
+![GitHub Streak](https://streak-stats.demolab.com?user=caiobertaglia&theme=tokyonight&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=00FF9C)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiobertaglia&layout=compact&theme=tokyonight&bg_color=000000&title_color=00FF9C&text_color=00FF9C&border_color=00FF9C)
