@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=28&center=true&vCenter=true&width=600&lines=while(true)+%7B+aprender();+%7D" />
+</p>
+
 <p>👨‍💻 Estudante de Sistemas de Informação na <a href="https://www.fiap.com.br/" target="_blank">FIAP</a>. </p>
 
 <p>🚀 Em aprendizado constante nas áreas de desenvolvimento, trabalhando com <strong>HTML, CSS, JavaScript, Java e Python</strong>.</p>
@@ -8,6 +12,14 @@
 
 <p>📫 Contato <a href="mailto:lemelucas167@gmail.com" target="_blank">lemelucas167@gmail.com</a></p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,googlecloud)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C" />
+</p>
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiobertaglia&show_icons=true&theme=tokyonight&border_color=7098c7)
+![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiobertaglia&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00FF9C&text_color=00FF9C&icon_color=00FF9C&border_color=00FF9C)
