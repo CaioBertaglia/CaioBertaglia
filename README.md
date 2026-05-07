@@ -23,4 +23,4 @@
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=caiobertaglia&theme=tokyonight&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&border=00FF9C)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiobertaglia&layout=compact&theme=tokyonight&bg_color=000000&title_color=00FF9C&text_color=00FF9C&border_color=00FF9C)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioBertaglia&layout=compact&theme=tokyonight&bg_color=000000&title_color=00FF9C&text_color=00FF9C&border_color=00FF9C)
